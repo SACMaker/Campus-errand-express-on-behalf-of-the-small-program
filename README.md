@@ -1,10 +1,10 @@
-**校园跑腿/校园快递代领微信小程序**
+** 校园跑腿/校园快递代领微信小程序 有配套论文 **
 
 
 
-**联系方式:** MasterwareDev  注意:请备注哪里加我的!!!
+**联系方式:** MasterwareDev  注意:请备注哪里加我的!!!  可定制其他微信小程序项目!!!
 
-**贴图链接:**https://boardmix.cn/app/share/CAE.CJPdgAwgASoQ7vLiUnV6dU8mK__Mu3yFTjAGQAE/dlu1jd，
+** 贴图链接:** https://boardmix.cn/app/share/CAE.CJPdgAwgASoQ7vLiUnV6dU8mK__Mu3yFTjAGQAE/dlu1jd，
 点击链接加入boardmix中的文件「快递跑腿」
 
 **开发环境及工具：**
